@@ -1,0 +1,95 @@
+[
+ {
+    "name": "Andrus Gerontology Center",
+    "address": "3715 McClintock Avenue, Los Angeles, CA 90089",
+    "code": "GER",
+    "description": "1 Restroom - 1st Floor",
+    "restrooms": 1
+  },
+      {
+    "name": "Bovard Auditorium",
+    "address": "3551 Trousdale Parkway, Los Angeles, CA 90089",
+    "code": "ADM",
+    "description": "2 Restrooms - 1st Floor | 3 Restrooms - 2nd Floor | 3 Restrooms - 3rd Floor",
+    "restrooms": 8
+  },
+   {
+    "name": "Bridge Hall",
+    "address": "3670 Trousdale Parkway, Los Angeles, CA 90089",
+    "code": "BRI",
+    "description": "1 Restroom - Basement",
+    "restrooms": 1
+  },
+      {
+    "name": "Childs Way Building 1",
+    "address": "1012 Childs Way, Los Angeles, CA 90089",
+    "code": "CWO",
+    "description": "1 Restroom - 1st Floor | 1 Restroom - 2nd Floor",
+    "restrooms": 2
+  },
+      {
+    "name": "College Academic Services Building",
+    "address": "3454 Trousdale Parkway, Los Angeles, CA 90089",
+    "code": "CAS",
+    "description": "2 Restrooms - 1st Floor",
+    "restrooms": 2
+  },
+    {
+    "name": "Figueroa Building",
+    "address": "3535 South Figueroa Street, Los Angeles, CA 90089",
+    "code": "FIG",
+    "description": "1 Restroom - 1st Floor | 2 Restrooms - 2nd Floor",
+    "restrooms": 3
+  },
+   {
+    "name": "Hedco Neurosciences Building",
+    "address": "3641 Watt Way, Los Angeles, CA 90089",
+    "code": "HNB",
+    "description": "1 Restroom - 2nd Floor | 1 Restroom - 3rd Floor | 1 Restroom - 4th Floor | 1 Restroom - 5th Floor",
+    "restrooms": 4
+  },
+      {
+    "name": "Loker Hydrocarbon Institute",
+    "address": "837 Bloom Walk, Los Angeles, CA 90089",
+    "code": "LHI",
+    "description": "1 Restroom - 2nd Floor",
+    "restrooms": 1
+  },
+
+    {
+    "name": "Norris Dental Science Center",
+    "address": "925 West 34th Street, Los Angeles, CA 90089",
+    "code": "DEN",
+    "description": "2 Restrooms - 1st Floor | 1 Restroom - 2nd Floor | 1 Restroom - 3rd Floor | 1 Restroom - 4th Floor",
+    "restrooms": 5
+  },
+  {
+    "name": "Olin Hall",
+    "address": "3650 McClintock Avenue, Los Angeles, CA 90089",
+    "code": "OHE",
+    "description": "1 Restroom - 2nd Floor | 1 Restroom - 3rd Floor | 1 Restroom - 4th Floor | 1 Restroom - 5th Floor",
+    "restrooms": 4
+  },
+    {
+    "name": "Ronald Tutor Campus Center",
+    "address": "3607 Trousdale Parkway, Los Angeles, CA 90089",
+    "code": "TCC",
+    "description": "1 Restroom - 3rd Floor",
+    "restrooms": 1
+  },
+
+   {
+    "name": "United University Church",
+    "address": "817 West 34th Street, Los Angeles, CA 90089",
+    "code": "UUC",
+    "description": "2 Restrooms - 1st Floor | 1 Restroom - 3rd Floor",
+    "restrooms": 3
+  },
+    {
+    "name": "Widney Alumni House",
+    "address": "635 Childs Way, Los Angeles, CA 90089",
+    "code": "ALM",
+    "description": "2 Restrooms - 1st Floor | 2 Restrooms - 2nd Floor",
+    "restrooms": 4
+  }
+]

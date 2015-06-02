@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Final.Project.Lew.Gabriel</string>
+    <string name="title_activity_main">USC Bathroom Locator</string>
+    <string name="title_activity_building_edit">Building Information</string>
+    <string name="title_activity_building_list">Building List</string>
+    <string name="list_empty">There are no buildings.</string>
+    <string name="label_title">Name:</string>
+    <string name="label_save">Save Building</string>
+    <string name="label_restnum">1</string>
+    <string name="label_menu_add">Add New Note</string>
+    <string name="label_menu_delete">Delete Note</string>
+
+</resources>
